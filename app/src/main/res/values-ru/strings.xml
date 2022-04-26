@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Поиск</string>
+    <string name="login_register_prompt">Чтобы продолжить с Babilado, пожалуйста войдите или зарегистрируйтесь</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="login">Войти</string>
+    <string name="ok">Ок</string>
+    <string name="cancel">Отмена</string>
+    <string name="new_message_dialog_title">Переписаться с другим пользователем</string>
+    <string name="settings">Настройки</string>
+    <string name="alt_dark_mode">Переключатель темного режима</string>
+    <string name="alt_avatar">Аватар пользователя</string>
+    <string name="log_out">Выйти</string>
+    <string name="new_msg">Новое сообщение</string>
+    <string name="no_chats_msg">Чаты пока отсутствуют. Нажмите кнопку внизу, чтобы начать новый.</string>
+    <string name="alt_attachment">Вложение</string>
+    <string name="msg">Сообщение</string>
+    <string name="send">Отправить</string>
+    <string name="loading">Загрузка...</string>
+    <string name="back">Назад</string>
+    <string name="user_exists">Пользователь %1$s уже существует</string>
+    <string name="invalid_cred">Логин или пароль неверен</string>
+</resources>

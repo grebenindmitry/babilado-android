@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Babilado</string>
+    <string name="search">Search</string>
+    <string name="login_register_prompt">To continue with Babilado, please login or register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_message_dialog_title">Chat with another user</string>
+    <string name="settings">Settings</string>
+    <string name="alt_dark_mode">Dark mode switch</string>
+    <string name="alt_avatar">User avatar</string>
+    <string name="log_out">Log out</string>
+    <string name="new_msg">New message</string>
+    <string name="no_chats_msg">No chats yet. Click the floating button to start a new chat.</string>
+    <string name="alt_attachment">Attachment</string>
+    <string name="msg">Message</string>
+    <string name="send">Send</string>
+    <string name="loading">Loading...</string>
+    <string name="back">Back</string>
+    <string name="user_exists">User %1$s already exists</string>
+    <string name="invalid_cred">Incorrect username or password</string>
+</resources>
